@@ -1,0 +1,81 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/d9/aa/e4/d9aae468da4f65f9586d8cd995adcc71.jpg');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.icecoffee{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.hotcoffee{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.coffee1{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.coffee2{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px; 
+}
+
+.coffee3{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px; 
+}
+
+.coffee4{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px; 
+}
+.coffee5{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+} 
+
+.coffee6{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+} 
+
+img{
+   width: 300px;
+   height: 300px;
+   border-radius: 50%;
+   text-align: center;
+  
+}
+
+
+h1{
+    text-align: center;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    
+   
+}
+
+ul{
+    
+    list-style: none;
+}
+
+
